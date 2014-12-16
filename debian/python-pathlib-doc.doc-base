@@ -1,0 +1,12 @@
+Document: python-pathlib
+Title: Python pathlib documentation
+Author: Antoine Pitrou
+Abstract: This documentation gives an introduction to the Python pathlib module.
+Section: Programming/Python
+
+Format: HTML
+Index: /usr/share/doc/python-pathlib-doc/html/index.html
+Files: /usr/share/doc/python-pathlib-doc/html/*.html
+
+Format: text
+Files: /usr/share/doc/python-pathlib-doc/text/index.txt

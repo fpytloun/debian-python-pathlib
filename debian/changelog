@@ -1,0 +1,5 @@
+python-pathlib (1.0.1-1) unstable; urgency=medium
+
+  * Initial version (Closes: #772736).
+
+ -- Frank Brehm <frank.brehm@profitbricks.com>  Tue, 16 Dec 2014 10:28:12 +0100
