@@ -1,5 +1,6 @@
 Source: python-pathlib
-Maintainer: Frank Brehm <frank.brehm@profitbricks.com>
+Maintainer: Filip Pytloun <filip.pytloun@tcpcloud.eu>
+XSBC-Original-Maintainer: Frank Brehm <frank.brehm@profitbricks.com>
 Section: python
 Priority: optional
 Build-Depends: debhelper (>= 9),
