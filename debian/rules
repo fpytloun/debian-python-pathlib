@@ -14,7 +14,6 @@ override_dh_auto_build:
 	make -C docs html man text
 
 override_dh_auto_test:
-	PYBUILD_TEST_ARGS="-s $(CURDIR)" dh_auto_test
 
 override_dh_compress:
 	dh_compress -X.txt
